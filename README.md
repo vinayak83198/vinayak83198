@@ -51,17 +51,15 @@
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayak83198&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vinayak83198&show_icons=true&theme=tokyonight)
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak83198&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=vinayak83198&layout=compact&theme=tokyonight)
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vinayak83198&theme=tokyonight)
-
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=vinayak83198&theme=tokyonight)
 
 ### 🤝 Connect With Me
 
