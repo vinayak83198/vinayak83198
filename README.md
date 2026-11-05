@@ -1,71 +1,19 @@
-# Hi there 👋, I'm Vinayak Patidar
 
-### 💻 B.Tech CSIT Student | Python Developer | Aspiring Machine Learning Engineer
+# 💫 About Me:
+I am a passionate B.Tech Computer Science and Information Technology student at IPS Academy, Indore (Class of 2028), with a strong interest in Web Development, and Artificial Intelligence & Machine Learning.<br><br>I have hands-on experience with Python, JavaScript, HTML, CSS,  FastAPI, MongoDB, and SQL. I also have experience working with Python libraries such as NumPy, Pandas, and Matplotlib for data preprocessing and visualization.<br><br>I enjoy building practical projects that solve real-world problems. Some of my projects include BloodConnect, a blood donor management platform, a Pinterest Clone, and other web-based applications.<br><br>Currently, I am strengthening my knowledge of Data Structures and Algorithms, Machine Learning, and Backend Development while continuously improving my problem-solving and technical skills.<br><br>I am always eager to learn new technologies, collaborate with developers, and explore opportunities where I can apply my skills and grow as a software developer.<br><br>**Interests:** Software Development | Python | Web Development | AI & Machine Learning | Data Science<br><br>
 
-- 🎓 Pursuing B.Tech in Computer Science & IT at IPS Academy, Indore.
-- 🌱 Currently learning Machine Learning, Deep Learning, and Data Structures & Algorithms.
-- 💻 Interested in Python, Backend Development, AI & Machine Learning.
-- 🚀 Building real-world projects to improve my development skills.
-- 🔭 Working on **BloodConnect** – a blood donor management platform.
-- 📚 Always learning and exploring new technologies.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinayakpatidar___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinayakpatidar/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vinayak Patidar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayakv34274@gmail.com) 
 
-### 🛠️ Tech Stack & Tools
-
-**Programming Languages**
-- Python
-- JavaScript
-- SQL
-
-**Web Development**
-- HTML
-- CSS
-- FastAPI
-
-**Database**
-- MongoDB
-- MySQL
-- SQLite
-
-**Python Libraries**
-- NumPy
-- Pandas
-- Matplotlib
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Postman
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vinayak83198&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vinayak83198&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vinayak83198&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=vinayak83198&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 My Projects
-
-- 🩸 **BloodConnect** – A platform connecting blood donors with people in need.
-- 📌 **Pinterest Clone** – A web application inspired by Pinterest.
-- 💰 **Room Expense Manager** – A Python-based expense management application.
-- 🎓 **Student Grade Management System** – A system for managing student records and grades.
-
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vinayak83198&show_icons=true&theme=tokyonight)
-
-### 💻 Most Used Languages
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=vinayak83198&layout=compact&theme=tokyonight)
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=vinayak83198&theme=tokyonight)
-
-### 🤝 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/vinayakpatidar/
-- GitHub: https://github.com/vinayak83198
-
----
-
-⭐ *"Consistency is the key to becoming a better developer. Keep learning, keep building!"*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
